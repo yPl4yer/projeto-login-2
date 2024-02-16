@@ -1,0 +1,1 @@
+A ideia era fazer uma página de login usando apenas HTML e CSS. Pensei em algo com uma imagem na esquerda e todas as outras informações na direita, principalmente o login. Irei aprimorar a pagina futuramente para ficar ainda melhor.
